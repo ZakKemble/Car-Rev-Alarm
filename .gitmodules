@@ -1,0 +1,3 @@
+[submodule "MCP_CAN_lib"]
+	path = MCP_CAN_lib
+	url = https://github.com/zkemble/MCP_CAN_lib
